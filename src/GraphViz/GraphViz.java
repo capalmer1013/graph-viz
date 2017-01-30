@@ -13,6 +13,9 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
+// https://docs.oracle.com/javase/7/docs/api/java/awt/Canvas.html
+// not sure if this is what I'll need but maybe
+
 /**
  *
  * @author cpalmer
